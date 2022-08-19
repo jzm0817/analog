@@ -1,0 +1,3 @@
+
+@import "pic/*.png"
+
